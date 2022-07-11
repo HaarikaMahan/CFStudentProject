@@ -17,4 +17,4 @@ With Regression Analysis, the hypothesis is proved.
 ## Tableau Presentation
 The analysis is presented as a Tableau story board visualization 
 https://public.tableau.com/app/profile/haarika.mahankali/viz/StudentProject-TemperatureChange/Story1?publish=yes
-
+This story board contains only the relevant visualization for final results but not all the steps of the analysis.
